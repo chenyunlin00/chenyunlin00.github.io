@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chenyunlin.com/categories/</loc>
+    <loc>http://chenyunlin.com/</loc>
+    <lastmod>2020-04-25T19:21:22+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://chenyunlin.com/</loc>
+    <loc>http://chenyunlin.com/posts/first/</loc>
+    <lastmod>2020-04-25T19:21:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chenyunlin.com/posts/</loc>
+    <lastmod>2020-04-25T19:21:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chenyunlin.com/categories/</loc>
   </url>
   
   <url>
