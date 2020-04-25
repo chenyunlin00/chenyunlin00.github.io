@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Chenyunlin Homepage</title>
-    <link>http://chenyunlin00.github.io/categories/</link>
+    <link>http://chenyunlin.com/categories/</link>
     <description>Recent content in Categories on Chenyunlin Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://chenyunlin00.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chenyunlin.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
